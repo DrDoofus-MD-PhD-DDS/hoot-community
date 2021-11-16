@@ -10,8 +10,8 @@ These can maybe be moved to a data read in file and loop over it
 
 function Videos() {
   const opts = {
-    height: "720",
-    width: "1280",
+    height: "360",
+    width: "640",
     playerVars: {
       autoplay: 0,
     },
