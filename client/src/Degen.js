@@ -27,7 +27,9 @@ function Degen() {
               Hoot Degens Discord
             </a>
             <p className="caption">
-              Unofficial discussions on $TWIGs, etc. NO Devs Allowed!
+              discussions on $TWIGs, etc
+              <br />
+              NO Devs Allowed!
             </p>
           </Col>
         </Row>

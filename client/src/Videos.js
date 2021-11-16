@@ -10,8 +10,8 @@ These can maybe be moved to a data read in file and loop over it
 
 function Videos() {
   const opts = {
-    height: "360",
-    width: "640",
+    height: "180",
+    width: "320",
     playerVars: {
       autoplay: 0,
     },
@@ -24,7 +24,7 @@ function Videos() {
   return (
     <div>
       <h1 className="mb-4">Videos</h1>
-      <Container fluid>
+      <Container fluid className="m-5">
         <Row className="video-container mb-5">
           <Col>
             <YouTube
