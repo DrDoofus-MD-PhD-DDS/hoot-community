@@ -4,7 +4,9 @@ body {
 }
 
 h1 {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
+  margin-bottom: 10%;
+  text-decoration: underline;
 }
 
 a {
@@ -75,4 +77,24 @@ a:hover {
     font-size: small;
     bottom: 5px;
   }
+}
+
+.video-container {
+  padding-top: 56.24%;
+  height: 0px;
+  position: relative;
+}
+
+#hootenany-video {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 1px solid antiquewhite;
+}
+
+.caption {
+  font-size: small;
+  margin-top: 0.2rem;
 }

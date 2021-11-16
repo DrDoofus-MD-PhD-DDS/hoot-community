@@ -14,7 +14,7 @@ function App() {
         <img src={hootsHollow} className="App-logo" alt="Hoots' Hollow logo" />
         <div>Unofficial CryptoHoots Community Page</div>
       </header>
-      <Container fluid className="main mt-5">
+      <Container fluid className="main mt-5 mb-5">
         {/* the cols are not defaulting nicely when screen size
 changes */}
 
