@@ -8,13 +8,13 @@ function Degen() {
       <Container>
         <Row className="g-0">
           <Col className="mb-3 g-0">
-            <a
+            {/* <a
               href="https://info.uniswap.org/#/pools/0xb98ce24b71d9e3355c516fb16d8f3cd5d0919d1f"
               target="_blank"
               rel="noopener noreferrer"
             >
               $TWIG Liquidity Pool
-            </a>
+            </a> */}
           </Col>
         </Row>
         <Row>
