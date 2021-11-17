@@ -19,7 +19,7 @@ function Degen() {
         </Row>
         <Row>
           <Col>
-            <a
+            {/* <a
               href="https://discord.gg/tqtFrS2mQW"
               target="_blank"
               rel="noopener noreferrer"
@@ -30,7 +30,7 @@ function Degen() {
               discussions on $TWIGs, etc
               <br />
               NO Devs Allowed!
-            </p>
+            </p> */}
           </Col>
         </Row>
       </Container>
